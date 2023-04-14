@@ -1,4 +1,4 @@
-# Hi, I'm Aral Roca
+# Hi, I'm Samuel
 
 <div align="right">
   <a href="https://techie-sam.vercel.app">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
@@ -39,13 +39,11 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖 &nbsp;&nbsp;[TECHIE SAM](https://aralroca.com): Last  Projects
  
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://aralroca.com/blog/i18n-translations-nextjs-13-app-dir) 
-* [Teaful DevTools Released!](https://aralroca.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful) 
-* [React state with a fragmented store](https://aralroca.com/blog/react-fragmented-store) 
-* [Virtual Sommelier, text classifier in the browser](https://aralroca.com/blog/food-pairing-classifier)
+* [My Portfolio](https://techiesam.vercel.app) 
+* [Quizlet CBT question App 🌊](https://quizlet001.vercel.app) 
+* [v-bank clone with HTML, CSS and Vanilla JS](https://v-bank001.vercel.app) 
 
 <br />
 
