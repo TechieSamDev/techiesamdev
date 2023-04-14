@@ -11,15 +11,15 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-    <a href="https://www.instagram.com/techie-sam/">
-    <img align="left" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    <a href="https://www.instagram.com/techie-sam/" target="_blank">
+    <img align="center" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
     </a>
     </a>
-    <a href="https://twitter.com/techie_sam">
-    <img align="left" alt="Techie Sam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <a href="https://twitter.com/techie_sam" target="_blank">
+    <img align="center" alt="Techie Sam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-    <img align="left" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/abhisheknaiidu/" target="_blank">
+    <img align="center" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
 
