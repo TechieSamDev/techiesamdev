@@ -11,18 +11,16 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/techie-sam" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/techie-sam/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:techiesam.dev@hotmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
+    <a href="https://www.instagram.com/techie-sam/">
+    <img align="left" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    </a>
+    </a>
+    <a href="https://twitter.com/techie_sam">
+    <img align="left" alt="Techie Sam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+    <img align="left" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
 </p>
 
 I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). 
