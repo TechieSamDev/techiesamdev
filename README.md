@@ -37,7 +37,7 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[TECHIE SAM](https://aralroca.com): Last  Projects
+#### 📖 &nbsp;&nbsp;[TECHIE SAM](https://techiesam.vercel.app): Last  Projects
  
 * [My Portfolio](https://techiesam.vercel.app) 
 * [Quizlet CBT question App 🌊](https://quizlet001.vercel.app) 
