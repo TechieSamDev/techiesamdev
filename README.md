@@ -50,11 +50,11 @@ If you like what i do, you can consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/techiesam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
+<a href="https://twitter.com/techie-sam">
   <table align="right">
       <tr>
           <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
+            👉 &nbsp;&nbsp;Follow me on Twitter
           </td>
       </tr>
   </table>
