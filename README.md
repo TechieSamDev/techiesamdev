@@ -18,7 +18,7 @@
     <a href="https://twitter.com/techie_sam" target="_blank">
     <img align="center" alt="Techie Sam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/abhisheknaiidu/" target="_blank">
+    <a href="https://www.linkedin.com/in/techie-sam/" target="_blank">
     <img align="center" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
