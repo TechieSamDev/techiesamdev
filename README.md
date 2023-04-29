@@ -45,6 +45,12 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 <br />
 
+[![TechieSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats) <br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
+
+
 If you like what i do, you can consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/techiesam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
