@@ -26,8 +26,7 @@
 <p align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). </p> 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br />
@@ -46,10 +45,6 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 <br />
 
 [![TechieSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats) <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
-
 
 If you like what i do, you can consider buying me a coffee/tea 🥺👉👈
 
