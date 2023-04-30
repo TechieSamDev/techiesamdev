@@ -1,16 +1,10 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> , I'm Samuel
 
-<div align="right">
-  <a href="https://techie-sam.vercel.app">
-  </a>
-</div>
+<p align="left">Nothing fancy. Just a Software Engineer with some sauce😋, want some?</p>
 
-<p align="center">
-  <a href="https://techie-sam.vercel.app">
-  </a>
-</p>
-
-I am Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
+* 🧠 I currently work with React JS and it frameworks
+* ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
+* 🧔 Check out this superb personal [website](https://www.techiesam.vercel) too
 
 <p align="center" style="margin: -20px 0 30px">
     <a href="https://www.instagram.com/techie-sam/" target="_blank">
