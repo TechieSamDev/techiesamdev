@@ -27,7 +27,7 @@ I am Frontend Engineer with experience in building intuitive and user-friendly w
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[TECHIE SAM](https://techiesam.vercel.app): Last  Projects
+Projects
  
 * [My Portfolio](https://techiesam.vercel.app) 
 * [Quizlet CBT question App 🌊](https://quizlet001.vercel.app) 
