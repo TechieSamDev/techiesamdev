@@ -25,14 +25,7 @@
 
 <p align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). </p> 
 
-<div align="center"><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)<br>
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
-
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
 
 <br />
 
@@ -45,6 +38,7 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 <br />
 
 [![TechieSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
 
 If you like what i do, you can consider buying me a coffee/tea 🥺👉👈
 
