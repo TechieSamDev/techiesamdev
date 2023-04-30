@@ -23,9 +23,7 @@
     </a>
 </p>
 
-<p align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). </p> 
-
-Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
+I am Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
 
 <br />
 
