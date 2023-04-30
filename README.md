@@ -4,7 +4,7 @@
 
 * 🧠 I currently work with React JS and it frameworks
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
-* 🧔 Check out this superb personal [website](https://www.techiesam.vercel) too
+* 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
 
 <p align="center" style="margin: -20px 0 30px">
     <a href="https://www.instagram.com/techie-sam/" target="_blank">
