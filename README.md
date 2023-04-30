@@ -21,7 +21,7 @@
 
 <br />
 
-Projects 
+### 🔥 Amazing projects with the sauce:
 * [My Portfolio](https://techiesam.vercel.app) 
 * [Quizlet Exam App](https://quizlet001.vercel.app) 
 * [V Bank](https://vbank.vercel.app) 
