@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Node). </p> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
+
+<div align="center"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)<br>
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br />
