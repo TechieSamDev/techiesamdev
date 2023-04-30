@@ -1,4 +1,4 @@
-# Hi, I'm Samuel
+# Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> , I'm Samuel
 
 <div align="right">
   <a href="https://techie-sam.vercel.app">
