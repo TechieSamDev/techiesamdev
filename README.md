@@ -6,7 +6,7 @@
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
 * 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
 
-<p align="center" style="margin: -20px 0 30px">
+<p style="margin: -20px 0 30px">
     <a href="https://www.instagram.com/techie-sam/" target="_blank">
     <img align="center" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
     </a>
