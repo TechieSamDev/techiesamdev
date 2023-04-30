@@ -34,6 +34,7 @@ Projects
 
 <br />
 
+### 📊 Some Stats to impress you to hire me:
 [![TechieSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
 
