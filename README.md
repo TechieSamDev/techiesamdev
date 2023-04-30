@@ -29,8 +29,8 @@ I am Frontend Engineer with experience in building intuitive and user-friendly w
 
 Projects 
 * [My Portfolio](https://techiesam.vercel.app) 
-* [Quizlet CBT question App 🌊](https://quizlet001.vercel.app) 
-* [v-bank clone with HTML, CSS and Vanilla JS](https://v-bank001.vercel.app) 
+* [Quizlet Exam App](https://quizlet001.vercel.app) 
+* [V Bank](https://vbank.vercel.app) 
 
 <br />
 
