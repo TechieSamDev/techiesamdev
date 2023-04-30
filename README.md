@@ -10,6 +10,8 @@
   </a>
 </p>
 
+I am Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
+
 <p align="center" style="margin: -20px 0 30px">
     <a href="https://www.instagram.com/techie-sam/" target="_blank">
     <img align="center" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -22,8 +24,6 @@
     <img align="center" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
-
-I am Frontend Engineer with experience in building intuitive and user-friendly web applications. Proficient in HTML5, CSS3, and JavaScript, with expertise in modern (React.js). Committed to writing clean, maintainable code that optimizes performance and scalability. Passionate about exploring new technologies and contributing to open-source projects.
 
 <br />
 
