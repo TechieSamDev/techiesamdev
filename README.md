@@ -37,9 +37,8 @@ Projects
 [![TechieSam's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-sam&theme=transparent&show_icons=true)](https://github.com/techie-sam/github-readme-stats)
 
-Consider buying me a coffee if you love what I do.
-
-<a href="https://www.buymeacoffee.com/techiesam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### 💰 You scrolled up to this point? Congratulations, you're buying me a coffee.
+[![Click here](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/timokonkwo) 
 
 <br />
 <a href="https://twitter.com/techie-sam">
