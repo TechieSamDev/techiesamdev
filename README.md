@@ -36,6 +36,6 @@
 [![Click here](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/techiesam) 
 
 <br />
-<a href="https://twitter.com/techie_sam" target="blank">
+<a href="https://twitter.com/techie_sam" target="blank" style="border:2px solid ">
    👉 &nbsp;&nbsp;Follow me on Twitter
 </a>
