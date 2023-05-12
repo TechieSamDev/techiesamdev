@@ -37,5 +37,5 @@
 
 <br />
 <a href="https://twitter.com/techie_sam" target="blank" style="border:2px solid white">
-    &nbsp;&nbsp;Follow me on Twitter 
+    &nbsp;&nbsp;Follow me on Twitter https://www.svgrepo.com/show/83013/twitter-bird-logo.svg
 </a>
