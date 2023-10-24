@@ -6,7 +6,7 @@
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
 * 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techie-sam) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techie_sam) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techie-sam)
 
 <br />
