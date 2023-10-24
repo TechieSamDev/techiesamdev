@@ -9,15 +9,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techie_sam) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techie-sam)
 
-<br />
-
-### 🔥 Amazing projects with the sauce:
-* [My Portfolio](https://techiesam.vercel.app) 
-* [Quizlet Exam App](https://quizlet001.vercel.app) 
-* [V Bank](https://vbank.vercel.app) 
-
-<br />
-
 ### 📊 Some Stats to impress you to hire me:
 ![](https://github-readme-stats.vercel.app/api?username=techie-sam&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techie-sam&theme=react&hide_border=false)<br/>
