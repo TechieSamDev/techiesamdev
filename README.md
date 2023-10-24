@@ -6,18 +6,10 @@
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
 * 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
 
-<p style="margin: -20px 0 30px">
-    <a href="https://www.instagram.com/techie-sam/" target="_blank">
-    <img align="center" alt="Techie Sam Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-    </a>
-    </a>
-    <a href="https://twitter.com/techie_sam" target="_blank">
-    <img align="center" alt="Techie Sam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/techie-sam/" target="_blank">
-    <img align="center" alt="Techie Sam LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techie-sam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techie-sam)
+
+### 📊 Some Stats to impress you to hire me:
 
 <br />
 
