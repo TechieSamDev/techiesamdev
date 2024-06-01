@@ -2,9 +2,9 @@
 
 <p align="left">Nothing fancy. Just a Engineer with some sauce😋, want some?</p>
 
-* 🧠 I work with Nextjs, React, Nodejs. JavaScript frameworks and libraries
-* ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
-📚 I'm always ready to learn and take on new challenges in the JS ecosystem!
+* 🧠 I work with Nextjs, React, Nodejs. JavaScript frameworks and libraries.
+* 📚 Always ready to learn and take on new challenges in the JS ecosystem!.
+* 💼 Open for remote gigs and collaborative opportunities.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techiesamdev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techiesamdev)
