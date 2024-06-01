@@ -15,8 +15,3 @@
 
 ### 💰 You scrolled up to this point? Congratulations, you're buying me a coffee.
 [![Click here](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/techiesamdev) 
-
-<br />
-<a href="https://twitter.com/techiesamdev" target="blank" style="border:2px solid white">
-    &nbsp;&nbsp;Follow me on Twitter
-</a>
