@@ -1,8 +1,8 @@
 # Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> , I'm Samuel
 
-<p align="left">Nothing fancy. Just a Software Engineer with some sauce😋, want some?</p>
+<p align="left">Nothing fancy. Just a Engineer with some sauce😋, want some?</p>
 
-* 🧠 I currently work with React JS and it frameworks
+* 🧠 I work with Nextjs, React, Nodejs. JavaScript frameworks and libraries
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
 * 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
 
