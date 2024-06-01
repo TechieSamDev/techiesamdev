@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> , I'm Samuel
+# Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> , I'm Samuel
 
 <p align="left">Nothing fancy. Just a Software Engineer with some sauce😋, want some?</p>
 
