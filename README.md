@@ -4,7 +4,7 @@
 
 * 🧠 I work with Nextjs, React, Nodejs. JavaScript frameworks and libraries
 * ✉️ I know you want me in your team. Just send an [Email](mailto:techiesam.dev@gmail.com), I'm coming with the sauce
-* 🧔 Check out this superb personal [website](https://www.techiesam.vercel.app) too
+📚 I'm always ready to learn and take on new challenges in the JS ecosystem!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techiesamdev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/techiesamdev)
