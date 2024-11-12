@@ -1,6 +1,6 @@
 # Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> , I'm Samuel
 
-<p align="left">Nothing fancy. Just an Engineer with some sauce😋, want some?</p>
+<p align="left">Nothing fancy, Just an Engineer with some sauce😋?</p>
 
 * 🧠 I work with Nextjs, React, Nodejs. JavaScript frameworks and libraries.
 * 📚 Always ready to learn and take on new challenges in the JS ecosystem!.
